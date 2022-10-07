@@ -11,7 +11,7 @@
 
 
             <div class="intro"><hr class="head">
-              <img class="profile" src="https://user-images.githubusercontent.com/115226313/194619371-4b09d11e-d48b-43b8-b794-4731c260d2d5.PNG" alt="khalil-photo">
+              <img class="profile" src="khalil.PNG" alt="khalil-photo">
               <h1><emph> Khalil Tarsha Kurdi</emph></h1> 
               <h3>Med student & Back-End developer</h3>
               <p> - Medical student 3rd year</p>
