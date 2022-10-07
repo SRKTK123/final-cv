@@ -14,8 +14,8 @@
               <img class="profile" src="https://raw.githubusercontent.com/SRKTK123/final-cv/main/khalil.png" alt="khalil-photo">
               <h1><emph> Khalil Tarsha Kurdi</emph></h1> 
               <h3>Medical student & Back-End developer</h3>
-              <p> - Medical student 3rd year</p>
-                <p class="med"> - Member of Syrian mathematical olympiad team in International</p><p class="math"> Mathematical Olympiad 2020 </p> <p class="dca"> - Founding Board Member of DCA Alumni Association</p>
+              <p> - Medical student (3rd year)</p>
+                <p class="med"> - Member of Syrian mathematical olympiad team in International</p><p class="math"> Mathematical Olympiad IMO 2020 </p> <p class="dca"> - Founding Board Member of DCA Alumni Association</p>
             </div>
          
          </div>
@@ -33,38 +33,38 @@
           <div class="work">
             <h2>Work Experience</h2>
             <h3>Back-End Developer</h3>
-            <h4>internship at Raizer</h4>
+            <h4>Internship at Raizer Company</h4>
             <h5>present</h5>
             <p> - Developing Websites</p>
             <p> - Training on differnt programming languages</p>
             
             <h3>Math Coach</h3>
             <h4>Distenction and Creativity Agency </h4> 
-            <h5>2019,present</h5>
-            <p> - problem solving</p>
-            <p> - training sessions</p>
+            <h5>2019 - present</h5>
+            <p> - Problem solving</p>
+            <p> - Training sessions</p>
             <hr class="border">
             <h2>Achievements</h2>
         <h3>🏆 Hohourable Mentoin</h3>
-        <p> Awarded at the 61st International Mathematical Olympiad </p>
+        <p> Awarded at the 61st International Mathematical Olympiad IMO 2020 </p>
          
           </div>
        <hr class="middle">
        <div class="edu">
            <h2> Academic Education</h2>
            <h3>University Of Aleppo</h3>
-           <h4>Medicine </h4>
+           <h4> Faculty of Medicine </h4>
 
            <p> 2020 - present | Aleppo</p>
            <hr class="border">
            <h2> Volunteer Experience</h2>
            <h3>Volunteer</h3>
            <h5>DCA | 2020 - present</h5>
-           <p>Give maths training to the members of Syrian mathematical olympiad team</p>
+           <p> Maths training to the members of Syrian mathematical olympiad team</p>
 
            <h3>Volunteer</h3>
            <h5>Albr wa Alihsan Charity Society | April 2022 -</h5><h5> present</h5>
-           <p>Give medical aid to people lives abroad Aleppo</p>
+           <p>Providing medical aids to people lives abroad Aleppo</p>
            <hr class="border">
            <h2>Skills</h2>
            <ul>
