@@ -11,7 +11,7 @@
 
 
             <div class="intro"><hr class="head">
-              <img class="profile" src="khalil.png" alt="khalil-photo">
+              <img class="profile" src="https://raw.githubusercontent.com/SRKTK123/final-cv/main/khalil.png" alt="khalil-photo">
               <h1><emph> Khalil Tarsha Kurdi</emph></h1> 
               <h3>Med student & Back-End developer</h3>
               <p> - Medical student 3rd year</p>
